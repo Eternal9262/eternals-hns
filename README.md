@@ -1,4 +1,4 @@
-# Hide 'n Seek (short introduction cuz im lazy as hell)
+# Hide 'n Seek (short introduction cuz im lazy)
 So, this is my dumb edit from the original gamemode for coop that includes not so much stuff atm (im not releasing this)
 
 ### Other stuff
